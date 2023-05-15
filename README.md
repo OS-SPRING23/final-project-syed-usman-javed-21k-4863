@@ -1,4 +1,4 @@
-# Plant Monitoring Script
+# Plant Monitoring Script Using Pure Bash Scripting
 
 This Bash script monitors the environment for a plant by reading values from an LDR (Light-Dependent Resistor) sensor and a DHT11 temperature and humidity sensor. It provides warnings and notifications based on the readings to ensure the well-being of the plant.
 
